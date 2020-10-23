@@ -1,0 +1,2 @@
+1) price per square footage?
+2)multiculinarity - correlation between features
